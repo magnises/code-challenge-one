@@ -1,0 +1,21 @@
+{
+  "name": "coding-challange-one",
+  "description": "The first magnises coding challange",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "ava -s test/*.test.js"
+  },
+  "dependencies": {
+    "bluebird": "3.4.1",
+    "ping": "0.1.10",
+    "smtp-connection": "2.3.2",
+    "smtp-protocol": "2.4.7"
+  },
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.9.5"
+  },
+  "devDependencies": {
+    "ava": "^0.15.0"
+  }
+}
